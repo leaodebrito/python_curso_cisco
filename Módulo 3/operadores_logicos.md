@@ -4,3 +4,4 @@
 2. Dia 14/10/2022 - Modulo (35%) e Section (65%)
 3. Dia 15/10/2022 - Modulo (41%) e Section (88%) - 3.2.1.15 LAB: A hipótese de Collatz
 4. Dia 16/10/2022 - Modulo (80%) e Section (30%) - 3.6.1.3 Operações em listas | slices
+5. Dia 05/11/2022 - Modulo (91%) e Section (14%) - 3.7.1.1 Listas em aplicações avançadas
